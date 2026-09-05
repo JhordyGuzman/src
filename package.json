@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node Main.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
